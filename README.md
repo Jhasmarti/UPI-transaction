@@ -16,8 +16,9 @@ This project includes a dynamic **Power BI dashboard** built from an **Excel dat
 | UPI ID      | UPI address (e.g., name\@upi) |
 | Amount      | Transaction amount            |
 | Date        | Date of the transaction       |
-| Type        | Sent or Received              |
-etc...
+| Type        | Sent or Received,    etc...    |
+
+
 
 ### 📎 File Included:
 
